@@ -1,0 +1,9 @@
+{
+  "name": "app2",
+  "displayName": "C-D Dictionnary",
+  "extra": {
+    "eas": {
+      "projectId": "03f8615a-618c-48da-b2ed-3eedc1c8df7f"
+    }
+  }
+}
